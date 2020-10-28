@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 28 Oct 2020 13:18:03 at https://5f84704e796cf.site123.me/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://5f84704e796cf.site123.me/ -O1 "C:\My Web Sites\SnapLingo" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:18:11	Warning: 	File not parsed, looks like binary: https://5f84704e796cf.site123.me/robots.txt
+13:18:46	Error: 	"Not Found" (404) at link https://5f84704e796cf.site123.me/5f84704e796cf.site123.me (from https://5f84704e796cf.site123.me/)
+13:18:46	Error: 	"Not Found" (404) at link cdn-cms-s.f-static.net/versions/2/css/owl.video.play.png (from cdn-cms-s.f-static.net/versions/2/css/minimize_main.css?v=r6915)
+13:18:46	Error: 	"Not Found" (404) at link https://5f84704e796cf.site123.me/review/5f84704e796cf.site123.me (from https://5f84704e796cf.site123.me/review/google-play-store)
+
+HTTrack Website Copier/3.49-2 mirror complete in 43 seconds : 43 links scanned, 39 files written (3439148 bytes overall) [2201423 bytes received at 51195 bytes/sec], 1817174 bytes transferred using HTTP compression in 30 files, ratio 24%, 3.5 requests per connection
+(3 errors, 1 warnings, 0 messages)
